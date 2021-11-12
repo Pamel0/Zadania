@@ -1,4 +1,3 @@
-/* na chwile obecna nie bierze pod uwage lat przestepnych ani dokladnie liczby dni */
 #include <stdio.h>
 
 int main(void)
