@@ -6,8 +6,7 @@ int main(void)
 
   printf("Podaj liczbe zmiennoprzecinkowa:\n");
   scanf("%f", &liczba);
-  printf("Podana liczba to %f lub %e\n", liczba, liczba); /* e-modyfikator dla notacji
-							      wykladniczej */
+  printf("Podana liczba to %f lub %e\n", liczba, liczba); 
 
   return 0;
 }
