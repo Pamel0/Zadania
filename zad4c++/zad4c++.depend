@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647785818 source:g:\zadania code block\zadanianowyrok\zad4c++\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+
